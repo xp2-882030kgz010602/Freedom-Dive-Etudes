@@ -1,0 +1,86 @@
+Performance notes:
+
+I have written the etudes so that the performer
+is only required to play intervals up to an octave.
+
+Being able to play octaves does not necessarily
+mean that all chords the size of an octave are
+playable. In such cases, "standard" procedure is to
+roll such chords.
+
+Whenever possible, play 8th grace notes at the same
+time as the notes immediately following them.
+Please note that doing so will require stretches
+larger than an octave.
+
+In Etude 4, the time signature temporarily switches
+to 2/4 during measures 94, 95, measures 116, 117,
+and measures 221, 222. This is only for purposes of
+notation, as not switching the time signature to
+2/4 causes the notes to extend past the page
+margin. These three pairs of measures are meant to
+be performed as single 4/4 measures.
+
+Some of these etudes are inspired by classical
+music pieces:
+
+Etude 3 is inspired by Un Sospiro, by Liszt.
+Etude 4 is inspired by Moonlight Sonata, by
+Beethoven.
+Etude 5 is inspired by a specific part of La
+Campanella, by Liszt. See 1:34 to 2:07 of
+Rousseau's recording.
+Etude 7 is inspired by Mendelssohn's Songs Without
+Words, Opus 19, Number 1.
+Etude 8 is inspired by a specific part of
+Liebestraum 3, by Liszt. See 2:03 to 2:20 of
+Rousseau's recording.
+Etude 9 is inspired by the middle of Tremolo, by
+Liszt. See 0:28 to 4:32 of a midi recording
+[youtu.be/QekPkoEi8o0].
+Etude 10 is inspired by Chopin Etude Opus 10,
+Number 2.
+Etude 11 is inspired by the 1838 version of
+Arpeggio, by Liszt.
+
+Sometimes, sections of an Etude will sound like
+they came from another piece. This is usually
+because I sometimes run out of ideas, and use other
+pieces for "structural" ideas. This can also be
+because I tried to write an Etude inspired by a
+certain piece, but I wasn't able to work things
+out, but I liked a certain section. Here are those
+classical music pieces:
+
+
+Measures 118 to 135 of Etude 4 are inspired by
+a specific part of Liebestraum 3, by Liszt. See
+2:03 to 2:20 of Rousseau's recording.
+
+Measures 116 to 133 of Etude 5 are inspired by
+a specific part of Liebestraum 3, by Liszt. See
+2:03 to 2:20 of Rousseau's recording.
+
+Measures 19 to 20, 37 to 28, 86 to 94, 112 to 115,
+and 216 to 219 of Etude 6 are inspired by Chopin
+Etude Opus 10, Number 4.
+Measures 116 to 133 are inspired by a specific part
+of La Campanella, by Liszt. See 1:34 to 2:07 of
+Rousseau's recording.
+
+Measures 116 to 133 of Etude 7 are inspired by a
+specific part of La Chasse, by Liszt. See 0:24 to
+0:32 of Hamelin's recording [youtu.be/9ahN-Z4KMdg].
+
+Measures 229 to 237 of Etude 11 are inspired by a
+specific part of Tremolo, by Liszt. See 0:21 to
+0:26 of a midi recording [youtu.be/QekPkoEi8o0].
+
+Occasionally similarities will be entirely
+coincidential.
+
+Measures 220 to 238 of Etude 11 should be
+considered as a cadenza. Because said cadenza is
+extremely long for a candenza, you are free to
+replace it with your own candenza, or to simply
+leave it out.
