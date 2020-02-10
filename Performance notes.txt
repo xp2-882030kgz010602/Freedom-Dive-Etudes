@@ -84,3 +84,8 @@ considered as a cadenza. Because said cadenza is
 extremely long for a candenza, you are free to
 replace it with your own candenza, or to simply
 leave it out.
+
+NOTE:
+As of Etude 12 or later chords larger than on octave will simply have the squiggly roll thing on them.
+
+Etude 12 comes from Chopin's Black Key Etude.
